@@ -1,11 +1,2 @@
 - <h2>👋 Hi, I’m Emre Uğur,
-I'm currently an undergraduate student at *Ihsan Doğramacı Bilkent University* in Ankara. 
-I got first introduced to coding with **Scratch** which is a software intended to teach kids coding.
-The idea of managing inputs and creating logic for a simple game was so fascinating that i tought myself
-to code with [Solo Learn](https://www.sololearn.com/home). I'm currently confident with *Java*, *Python*, *C++* and *JavaScript* and familiar
-with most of the programming languages. I am currently intrested in building fullstack web applications. [Poker Chips](https://github.com/Emruur/PokerChipsApp)
-is the current project that i'm working on, it uses React.js as the frontend framework and Firebase services for database and authentication. Feel free to collaborate.
-
-
-
-
+As a programmer with a deep interest in Artificial Intelligence and modeling natural systems, particularly the human brain, I am driven by a passion for understanding and replicating complex processes. My research experience includes a focus on Multi-Agent Reinforcement Learning. Currently, I am working on an automated job interview scoring system. This project leverages advanced machine learning techniques and Large Language Models (LLMs) to evaluate both the speaking proficiency and the content quality of interviews. I have a robust technical foundation on engineering full-stack web applications. However, I can adapt my skills to various areas, backed by a solid foundation in my current knowledge. I excel in acquiring and applying new skills efficiently. I am committed to pursuing a Master’s degree in Artificial Intelligence.
