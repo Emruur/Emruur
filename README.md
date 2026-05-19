@@ -1,2 +1,9 @@
-- <h2>👋 Hi, I’m Emre Uğur,
-As a programmer with a deep interest in Artificial Intelligence and modeling natural systems, particularly the human brain, I am driven by a passion for understanding and replicating complex processes. My research experience includes a focus on Multi-Agent Reinforcement Learning. Currently, I am working on an automated job interview scoring system. This project leverages advanced machine learning techniques and Large Language Models (LLMs) to evaluate both the speaking proficiency and the content quality of interviews. I have a robust technical foundation on engineering full-stack web applications. However, I can adapt my skills to various areas, backed by a solid foundation in my current knowledge. I excel in acquiring and applying new skills efficiently. I am committed to pursuing a Master’s degree in Artificial Intelligence.
+## 👋 Hi, I'm Emre
+
+Computer scientist with a Master's in Artificial Intelligence and a Bachelor's in Computer Science, focused on large language models. My thesis covered sparse attention for long-context optimization, implemented down to custom CUDA kernels. I've also surveyed the literature on LLM interpretability, the study of how these models work internally. During an internship I built [SmartQA](https://github.com/Emruur/SmartQA), a full-stack information-retrieval pipeline powering a lightweight, hallucination-resistant chatbot.
+
+Outside of LLMs I enjoy applying ML to creative problems, such as an [evolutionary brush-generation system](https://github.com/Emruur/CreativeBrushes) and a [genetic-algorithm settlement generator for Minecraft](https://github.com/Emruur/MinecraftSettlement).
+
+Open to AI/ML and software development roles.
+
+📫 [emreu02@gmail.com](mailto:emreu02@gmail.com) · [LinkedIn](https://www.linkedin.com/in/emre-u%C4%9Fur/)
