@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Emre
+## Hi, I'm Emre
 
 Computer scientist with a Master's in Artificial Intelligence and a Bachelor's in Computer Science, focused on large language models. My thesis covered sparse attention for long-context optimization, implemented down to custom CUDA kernels. I've also surveyed the literature on LLM interpretability, the study of how these models work internally. During an internship I built [SmartQA](https://github.com/Emruur/SmartQA), a full-stack information-retrieval pipeline powering a lightweight, hallucination-resistant chatbot.
 
