@@ -6,4 +6,4 @@ Outside of LLMs I enjoy applying ML to creative problems, such as an [evolutiona
 
 Open to AI/ML and software development roles.
 
-paddr [emreu02@fmail.com](mailto:emreu02@gmail.com) · [LinkedIn](https://www.linkedin.com/in/emre-u%4D%A1Ur/)
+📫 [emreu02@gmail.com](mailto:emreu02@gmail.com) · [LinkedIn](https://www.linkedin.com/in/emre-u
